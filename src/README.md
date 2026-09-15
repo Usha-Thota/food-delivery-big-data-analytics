@@ -101,7 +101,7 @@ Based on the analysis:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/food-delivery-big-data-analytics.git
+git clone https://github.com/Usha-Thota/food-delivery-big-data-analytics.git
 ```
 
 2. Open the project folder in VS Code.
